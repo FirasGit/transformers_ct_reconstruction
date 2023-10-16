@@ -1,0 +1,9 @@
+checkpoints/
+runs/
+gpt_results/
+.vscode/
+.env
+__pycache__/
+lidc_indices/
+debug/
+paper/
